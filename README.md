@@ -1,8 +1,5 @@
-
-<div align="center">
-
 <p align="center">
-  <img src="./assets/github-banner.png" width="70%">
+  <img src="./assets/header.svg" width="100%" />
 </p>
 
 # 👋 Olá! Eu sou Pedro Carvalho
