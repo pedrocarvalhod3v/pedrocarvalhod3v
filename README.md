@@ -18,6 +18,14 @@
 
 # 🌙 About Me
 
+<table>
+  <tr>
+
+  <td width "65%">
+
+    
+
+
 ```text
 Name......... Pedro Carvalho
 Role......... IT Intern
@@ -26,10 +34,20 @@ Learning..... SAP S/4HANA 2023
 Goal......... Become a SAP ABAP Developer
 Location..... Brazil 🇧🇷
 ```
+</td>
+
+<td width="35%" align="center">
+
+<img src="./assets/aliengif.gif" width="220"/>
+
+</td>
 
 > I enjoy solving problems, automating processes and building software that creates real value.
 >
 > My current journey is transitioning from Infrastructure to Enterprise Software Development with SAP ABAP.
+
+  </tr>
+</table>
 
 ---
 
